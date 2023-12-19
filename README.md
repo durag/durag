@@ -1,13 +1,3 @@
-<!--- 
-<h2 align="center">Projects</h2>
-<p align="center">My most outstanding projectss so far.</p>
-
-| <a href="https://cyber-lounge.net" target="_blank">**Cyber Lounge**</a> | <a href="https://minebet.net" target="_blank">**Minebet Network**</a> 
-| :---: | :---: |
-| <img align='center' src='https://i.imgur.com/HKOcCTz.png' width="150px" height='100px'> | <img align='center' src='https://i.imgur.com/Y6T9twR.png' width="150px" height='150px'>
-| <a href="https://cyber-lounge.net" target="_blank">`https://cyber-lounge.net`</a> | <a href="https://minebet.net" target="_blank">`https://minebet.net`</a>
--->
-
 <h2 align="center">Fluent Laungauges</h2>
 <p align="center">Over 5 years of exploring and creating</p>
 
